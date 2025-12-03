@@ -1,4 +1,4 @@
-# les2
+# Linaer algebra tool kit
 Linear algebra helpers built on NumPy: LU decomposition (full pivoting), QR via Householder reflections, iterative solvers (Jacobi and Gauss-Seidel), determinants, inverses, and condition numbers. Everything operates on `numpy.ndarray` with simple procedural functions (no OOP wrapper).
 
 ## Project layout
